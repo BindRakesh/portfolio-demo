@@ -15,3 +15,4 @@ By now what I know?
     1. commiting pushing and publishing a repo using netlify 
     1. crating branch
     1. merging the branch
+s
