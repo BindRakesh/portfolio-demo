@@ -13,4 +13,5 @@ By now what I know?
 1. what I know about git
     1. how to create repo
     1. commiting pushing and publishing a repo using netlify 
-    
+    1. crating branch
+    1. merging the branch
